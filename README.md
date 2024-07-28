@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Azaantechnoindia
-- 👀 I’m Student 
-- 🌱 This is My Github Account.
+- 👀 I’m Student
+- I am From Kolkata in India
+- I am Currently learning in Techno India University
+- 🌱 This is My Official Github Account.
 
 
 <!---
